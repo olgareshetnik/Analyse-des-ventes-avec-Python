@@ -1,4 +1,4 @@
-# Project_Tableau_Analyse-des-activit-s-d-une-entreprise-sp-cialis-e-en-articles-de-sport
+# Projet Tableau "Analyse de l'activite d'une entreprise specialisee dans la vente d'articles de sport"
 
 ## Synthèse
 
